@@ -1,3 +1,8 @@
+# URL Shortner
+## About
+A Simple , DB-less URL Shortner application written in Haskell using yesod. Uses local file system as the data store for storing links.
+
+
 > *Note: This project was generated from the `yesod-minimal` scaffolding, and does not support features like `yesod devel`. If you want these features, use the `yesod-simple` stack template.*
 
 ## Haskell Setup
