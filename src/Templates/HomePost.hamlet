@@ -1,0 +1,4 @@
+<h1>
+    URL Shortner!
+<h2>
+    short link : @{HomeR}#{slug}

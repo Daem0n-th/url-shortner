@@ -1,0 +1,8 @@
+<h1>
+    URL Shortner!
+<form action=@{HomeR} method="POST">
+    <label>
+        Enter URL :
+    <input type="text" name="url" value="sample url">
+    <button type="submit">
+        GO!
